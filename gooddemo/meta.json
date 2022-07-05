@@ -1,3 +1,4 @@
 {
-  "demoResources": ["gooddemo"]
+  "name": "GoodDemo",
+  "description": "GoodDemo sample data"
 }
